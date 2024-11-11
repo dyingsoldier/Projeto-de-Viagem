@@ -13,6 +13,7 @@ nav ul{
     align-items: center;
     padding-block: 8px;
     gap: 24px;
+    font: var(--text-lg);
 }
 
 nav ul li:last-child img {
